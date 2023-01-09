@@ -13,4 +13,4 @@
     <img align="center" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />  
 </div><br/>
 
-Projeto que utiliza a técnica de Machine Learning com Aprendizagem não supervisionado através do algoritmo KMeans. Aqui temos uma base de dados extraídas da API do Spotify e através dessa desenvolveu-se um Recomendador de Playlist, que utiliza como variável de entrada uma música desejada pelo usuário. 
+Projeto que utiliza a técnica de Machine Learning com Aprendizagem Não Supervisionado. Para isso foi utilizada a técnica de clusterização com o algoritmo KMeans. As bases de dados utilizadasf foram extraídas da API do Spotify, e assim foi desenvolvido um "Recomendador de Playlist", que utiliza como variável de entrada uma música desejada pelo usuário e gera 10 músicas para este usuário.
