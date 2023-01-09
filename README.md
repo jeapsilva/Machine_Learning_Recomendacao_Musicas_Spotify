@@ -20,6 +20,8 @@ Projeto que utiliza a técnica de Machine Learning com Aprendizagem Não Supervi
 <div style="display: inline_block"><br/>
     <img align="center" alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />  
     <img align="center" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />  
+    <img align="center" alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> 
+    <img align="center" alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
 </div><br/>
 
 # Pessoas Contribuidoras
