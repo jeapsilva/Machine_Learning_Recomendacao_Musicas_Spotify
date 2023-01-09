@@ -1,4 +1,5 @@
-<h1 align='center'> Recomendação de Playlist no Spotify </h1> (#Titulo-do-projeto)
+# Índice 
+<h1 align='center'> * Recomendação de Playlist no Spotify </h1> (#Titulo-do-projeto)
 
 <!-- <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
@@ -6,7 +7,6 @@
  -->
 
 * [Badges](#badges)
-* 
 <div style="display: inline_block"><br/>
 <!--     ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge) -->
     <img align="center" alt="Em Desenvolvimento" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge" /> 
