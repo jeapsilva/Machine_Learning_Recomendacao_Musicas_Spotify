@@ -1,4 +1,4 @@
-<h1 align='center'> #Recomendação de Playlist no Spotify </h1>
+<h1 align='center'> Recomendação de Playlist no Spotify </h1>
 
 <h4 align="center"> 
     :construction:  Projeto em construção  :construction:
