@@ -98,5 +98,3 @@ Por fim, conforme podemos analisar no gráfico de elbow, quando há uma curva ac
 
 
 Esta licença permite que outros remixem, adaptem e criem a partir do seu trabalho para fins não comerciais e, embora os novos trabalhos tenham de lhe atribuir o devido crédito e não possam ser usados para fins comerciais, os usuários não têm de licenciar esses trabalhos derivados sob os mesmos termos.
-
-# Conclusão
