@@ -9,7 +9,7 @@
 
 # Descrição do Projeto 
 
-Projeto que utiliza a técnica de Machine Learning com Aprendizagem Não Supervisionado. Para isso foi utilizada a técnica de clusterização com o algoritmo KMeans. As bases de dados utilizadasf foram extraídas da API do Spotify, e assim foi desenvolvido um "Recomendador de Playlist", que utiliza como variável de entrada uma música desejada pelo usuário e gera 10 músicas para este usuário.
+Projeto que utiliza Clustering, técnica de Machine Learning com Aprendizagem Não Supervisionado. Para isso foi utilizado o algoritmo KMeans. As bases de dados utilizadas foram extraídas com a API do Spotify, e assim desenvolveu-se um "Recomendador de Playlist", que utiliza como variável de entrada uma música desejada pelo usuário e gera uma playlist contendo 10 músicas para este usuário.
 
 De posse da base de dados da API do Spofity, buscou-se responder a seguinte pergunta para o problema:
 
