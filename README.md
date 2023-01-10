@@ -6,6 +6,8 @@
 
 Projeto que utiliza Clustering, técnica de Machine Learning com Aprendizagem Não Supervisionado. Para isso foi utilizado o algoritmo KMeans. As bases de dados utilizadas foram extraídas com a API do Spotify, e assim desenvolveu-se um "Recomendador de Playlist", que utiliza como variável de entrada uma música desejada pelo usuário e gera uma playlist contendo 10 músicas para este usuário.
 
+Além disso no desenvolvimento do modelo foi utilizada a classe Pipeline do Scikit Learn. Essa funcionalidade do Scikit-Learn que ajuda criar códigos que possuam um padrão que possa ser facilmente entendido e compartilhando entre times de cientista e engenheiro de dados.
+
 De posse da base de dados da API do Spofity, buscou-se responder a seguinte pergunta para o problema:
 
 * Dado uma música X que eu gosto, quais outras 10 são semelhantes no meu Spotify?
@@ -55,7 +57,7 @@ Redução de dimensionalidade: Conforme dito anteriormente, ao transformar vari�
 
 Com todas as features devidamente transformadas e rescaladas, utilizou-se um Classificador KMeans.
 
-**Análise do Modelo**
+**Avaliação do Modelo**
 
 Um bom cluster tem uma baixa inertia_ (SSE) e também o menor número de clusters. Logo não queremos muitos clusters. A Curva de Cotovelo ou Método Elbow Curve é uma técnica usada para encontrar a quantidade ideal de clusters K. Este método testa a variância dos dados em relação ao número de clusters. O valor ideal de K é aquele que tem um menor Within Sum of Squares (WSS) e ao mesmo tempo o menor número de clusters. Chamamos de curva de cotovelo, porque a partir do ponto que seria o “cotovelo” não existe uma discrepância tão significativa em termos de variância. Dessa forma, a melhor quantidade de clusters K seria exatamente onde o cotovelo estaria. A curva de cotovelo 
 
@@ -80,11 +82,11 @@ Por fim, conforme podemos analisar no gráfico de elbow, quando há uma curva ac
     <img align="center" alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
 </div><br/>
 
-**Data manipulation and cleaning:** pandas, numpy, PCA, StandarScaler.
+**Data manipulation and cleaning:** Pandas, Numpy, PCA, StandarScaler.
 
-**Data visualization:** Plotly.
+**Data visualization:** Seaborn, Plotly.
 
-**Machine learning:** Clustering (Kmeans).
+**Machine learning:** Clustering (Kmeans), Pipeline (Scikit-Learn).
 
 # Pessoas Desenvolvedoras do Projeto
 
