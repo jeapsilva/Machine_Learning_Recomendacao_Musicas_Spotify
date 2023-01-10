@@ -67,13 +67,16 @@ Com todas as features devidamente transformadas e rescaladas, utilizou-se um Cla
 
 **Análise do Modelo**
 
-Um bom cluster tem uma baixa inertia_ (SSE) e também o menor número de clusters. Logo não queremos muitos clusters. A Curva de Cotovelo ou Método Elbow Curve é uma técnica usada para encontrar a quantidade ideal de clusters K. Este método testa a variância dos dados em relação ao número de clusters. O valor ideal de K é aquele que tem um menor Within Sum of Squares (WSS) e ao mesmo tempo o menor número de clusters. Chamamos de curva de cotovelo, porque a partir do ponto que seria o “cotovelo” não existe uma discrepância tão significativa em termos de variância. Dessa forma, a melhor quantidade de clusters K seria exatamente onde o cotovelo estaria. A curva 
+Um bom cluster tem uma baixa inertia_ (SSE) e também o menor número de clusters. Logo não queremos muitos clusters. A Curva de Cotovelo ou Método Elbow Curve é uma técnica usada para encontrar a quantidade ideal de clusters K. Este método testa a variância dos dados em relação ao número de clusters. O valor ideal de K é aquele que tem um menor Within Sum of Squares (WSS) e ao mesmo tempo o menor número de clusters. Chamamos de curva de cotovelo, porque a partir do ponto que seria o “cotovelo” não existe uma discrepância tão significativa em termos de variância. Dessa forma, a melhor quantidade de clusters K seria exatamente onde o cotovelo estaria. A curva de cotovelo 
 
 # Resultado
 
 Ao observar os resultados do modelo e previsão e seus respectivos erros, observa-se que o modelo apresenta uma pequena tendência em prever valores de vendas menores que o realizado (conforme verifica-se o skewness do erro tendendo para o lado negativo), dessa forma há um certo nível de conservadorismo pelas respostas apresentadas.
 
 # Pessoas Desenvolvedoras do Projeto
+
+| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/jesapsilva) | 
+| :---: | :---: | :---: |
 
 # Licença
 
