@@ -52,12 +52,15 @@ O problema foi classificado como um problema de classificação com aprendizado 
 O conjunto de dados principal contém 20311 de linhas e 19 colunas. A limpeza e manipulação realizada foi para verificação de dados ausentes, busca por outliers, e valores NaN. 
 
 **Feature Engineering**
+
 O trabalho inicialmente realizado foi para a adequação de variáveis do tipo categóricas, que não são aceitos por modelos de Machine Learning. Para isso utilizamos o encoder OneHotEncoder para a transformação dessas variáveis em variáveis dummies. A variável que foi submetida essa transformação foi a "artists" que contêm 875 variações presentes no dataset. 
 
 **Análise Exploratória de Dados (EDA)**
+
 Na análise exploratória de dados foi realizada uma análise para a distribuição de cada uma das variáveis, as relações entre variáveis a partir da matriz de correlação. A partir disso, no
 
 **Seleção de features e transformação**
+
 Inicialmente, todas as features sofreram algum tipo de transformação:
 
 Rescala: As features sofreram normalização dos dados para que todos fiquem em uma distribuição em escala próximas. Para isso utilizou-se o StandardScaler. Vale lembrar também que como o KMeans utiliza a distância euclidiana, essa rescala é necessária pois este algoritmo é sensível a escalas diferentes. 
@@ -75,8 +78,7 @@ Ao observar os resultados do modelo e previsão e seus respectivos erros, observ
 
 # Pessoas Desenvolvedoras do Projeto
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/jesapsilva) | 
-| :---: | :---: | :---: |
+Jéssica Aparecida Silva - Cientista de dados - @jesapsilva
 
 # Licença
 
