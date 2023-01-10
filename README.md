@@ -1,10 +1,5 @@
 <h1 align='center'> Recomendação de Playlist no Spotify </h1>
 
-<!-- <h4 align="center"> 
-    :construction:  Projeto em construção  :construction:
-</h4>
- -->
-
 ![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
 
 # Descrição do Projeto 
@@ -14,14 +9,6 @@ Projeto que utiliza Clustering, técnica de Machine Learning com Aprendizagem N�
 De posse da base de dados da API do Spofity, buscou-se responder a seguinte pergunta para o problema:
 
 * Dado uma música X que eu gosto, quais outras 10 são semelhantes no meu Spotify?
-
-# Tecnologias utilizadas
-<div style="display: inline_block"><br/>
-    <img align="center" alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />  
-    <img align="center" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />  
-    <img align="center" alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> 
-    <img align="center" alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
-</div><br/>
 
 # Features
 Do Spotify foram extraídos 3 bases de dados. Sendo uma que contêm a descrição dos gêneros músicas através de features como acousticness, danceability, energy,popularity, etc. Outra base de dados é a que traz os dados das músicas, contendo features como nome do artista, nome da musica, acousticness, danceability, energy, etc. Por fim , temos também uma base de dados que traz dados a referência entre os anos e features como acousticness, danceability, energy, etc. 
@@ -84,7 +71,13 @@ Por fim, conforme podemos analisar no gráfico de elbow, quando há uma curva ac
   <img src="playlist-ed-sheeran" />
 </p>
 
-# Ferramentas utilizadas 
+# Tecnologias utilizadas
+<div style="display: inline_block"><br/>
+    <img align="center" alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />  
+    <img align="center" alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" />  
+    <img align="center" alt="Scikit Learn" src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" /> 
+    <img align="center" alt="Plotly" src="https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white" />
+</div><br/>
 
 **Data manipulation and cleaning:** pandas, numpy, PCA, StandarScaler.
 
