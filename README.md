@@ -59,8 +59,8 @@ Com todas as features devidamente transformadas e rescaladas, utilizou-se um Cla
 
 Um bom cluster tem uma baixa inertia_ (SSE) e também o menor número de clusters. Logo não queremos muitos clusters. A Curva de Cotovelo ou Método Elbow Curve é uma técnica usada para encontrar a quantidade ideal de clusters K. Este método testa a variância dos dados em relação ao número de clusters. O valor ideal de K é aquele que tem um menor Within Sum of Squares (WSS) e ao mesmo tempo o menor número de clusters. Chamamos de curva de cotovelo, porque a partir do ponto que seria o “cotovelo” não existe uma discrepância tão significativa em termos de variância. Dessa forma, a melhor quantidade de clusters K seria exatamente onde o cotovelo estaria. A curva de cotovelo 
 
-<p align="left">
-  <img src="img_elbow", height="10"/>
+<p>
+  <img src="img_elbow", height=10/>
 </p>
 
 # Resultado
