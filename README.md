@@ -44,7 +44,7 @@ O trabalho inicialmente realizado foi para a adequação de variáveis do tipo c
 
 **Análise Exploratória de Dados (EDA)**
 
-Na análise exploratória de dados foi realizada uma análise para a distribuição de cada uma das variáveis, as relações entre variáveis a partir da matriz de correlação. A partir disso, no
+Na análise exploratória de dados foi realizada uma análise para a distribuição de cada uma das variáveis, as relações entre variáveis a partir da matriz de correlação. Também visualizou-se as escalas entre as variáveis para verificar a necessidade de padronização nos dados. 
 
 **Seleção de features e transformação**
 
