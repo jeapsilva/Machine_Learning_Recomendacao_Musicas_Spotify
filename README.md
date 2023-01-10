@@ -88,7 +88,6 @@ Por fim, conforme podemos analisar no gráfico de elbow, quando há uma curva ac
 # Pessoas Desenvolvedoras do Projeto
 
 <a href="https://github.com/jesapsilva">Jéssica Aparecida Silva - Cientista de dados</a>
-<a href="https://www.linkedin.com/in/jessica-aparecida-silva/">Linkedin</a>
 
 # Licença
 
