@@ -78,7 +78,8 @@ Ao observar os resultados do modelo e previsão e seus respectivos erros, observ
 
 # Pessoas Desenvolvedoras do Projeto
 
-Jéssica Aparecida Silva - Cientista de dados - @jesapsilva
+<a href="https://github.com/jesapsilva">Jéssica Aparecida Silva - Cientista de dados</a>
+ - @jesapsilva
 
 # Licença
 
