@@ -34,7 +34,7 @@ Logo segue a lista das features analisadas no modelo desenvolvido.
 
 # Descrição da Solução 
 
-Solução 
+**Solução**
 O problema foi classificado como um problema de classificação com aprendizado não supervisionado, usando aprendizado de máquina com o algoritmo KMeans. A solução foi realizada em ciclos de desenvolvimento de ponta a ponta e pode ser descrita resumidamente, a solução completa pode ser encontrada no algoritmo disponibilizado nesse repositório.
 
 **Limpeza e manipulação dos dados**
