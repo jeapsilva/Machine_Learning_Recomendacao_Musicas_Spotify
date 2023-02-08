@@ -63,7 +63,7 @@ Um bom cluster tem uma baixa inertia_ (SSE) e também o menor número de cluster
 
 
 <p align="center">
-  <img src="img_elbow", height=10/>
+  <img src="img_elbow.png", height=10/>
 </p>
 
 # Resultado
